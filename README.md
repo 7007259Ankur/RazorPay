@@ -81,14 +81,3 @@ This project is licensed under the MIT License.
 
 ✨ If you find this helpful, give it a ⭐ on GitHub and share your feedback!
 
-```
-
----
-
-Would you like me to:
-- Add a `.gitignore` file for Node.js?
-- Help you deploy it on Render/Vercel for live demo?
-- Suggest LinkedIn hashtags for your post?
-
-Let me know what you want next!
-```
